@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "question": "This is a question",
-      "answer": "This is the answer"
+      "question": "Why can't I add my iCloud account?",
+      "answer": "Currently we only support Google and Microsoft accounts. We plan to add other providers in the future, however no definitive date has been confirmed."
     },
     {
       "id": 2,
-      "question": "This is a question",
-      "answer": "This is the answer"
+      "question": "How can I create a new event?",
+      "answer": "TimeStack is not meant to replace your calendar app. Its main goal to is take quick actions an upcoming events. However this does not mean we could add the ability to create events in a future release."
     }
 ]
