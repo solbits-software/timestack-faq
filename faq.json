@@ -2,14 +2,7 @@
     {
       "id": 1,
       "question": "Why can't I add my iCloud account?",
-      "answer": "## This is a Markdown Test
-
-1. This is the first **item*
-2. This is the secondItem
-
-#### The thsdasdas
-
-This is "
+      "answer": "## This is a Markdown Test\n1. This is the first **item*\n2. This is the secondItem"
     },
     {
       "id": 2,
