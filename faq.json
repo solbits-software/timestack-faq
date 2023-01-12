@@ -1,12 +1,17 @@
 [
     {
       "id": 1,
-      "question": "Why can't I add my iCloud account?",
-      "answer": "## This is a Markdown Test\n1. This is the first **item*\n2. This is the secondItem"
+      "question": "What calendar services do you support?",
+      "answer": "As of now, only Google and Microsoft accounts are supported. While we intend to add more providers in the future, we cannot confirm when exactly that will happen."
     },
     {
       "id": 2,
-      "question": "How can I create a new event?",
-      "answer": "TimeStack is not meant to replace your calendar app. Its main goal to is take quick actions an upcoming events. However this does not mean we could add the ability to create events in a future release."
+      "question": "Why can't I create a new event?",
+      "answer": "TimeStack is designed to complement your calendar app, focusing on providing quick actions for upcoming events. However, this does not rule out the possibility of adding event creation capabilities in a future release."
+    },
+    {
+      "id": 3,
+      "question": "How do I cancel mu subcription?",
+      "answer": "You can cancel your **TimeStack** subscription anytime by going to the device settings, choosing the top setting with your name, navigating to Subscriptions, and locating the **TimeStack** subscription. A shortcut labelled \\"Manage Subscription\\" can also be found on the settings screen."
     }
 ]
