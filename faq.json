@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "question": "What calendar services do you support?",
-      "answer": "As of now, only Google and Microsoft accounts are supported. While we intend to add more providers in the future, we cannot confirm when exactly that will happen."
+      "question": "What calendar services does TimeStack support?",
+      "answer": "Currently, Google and Microsoft accounts are supported. We intend to add addtional providers, however cannot confirm a timeline."
     },
     {
       "id": 2,
       "question": "Why can't I create a new event?",
-      "answer": "TimeStack is designed to complement your calendar app, focusing on providing quick actions for upcoming events.\n\nHowever, this does not rule out the possibility of adding event creation capabilities in a future release."
+      "answer": "TimeStack is designed to elevate your calendar app, focusing on providing quick actions for upcoming events.\n\nHowever, this does not rule out the possibility of adding event creation capabilities in a future release."
     },
     {
       "id": 3,
